@@ -1,0 +1,3 @@
+* compilacao
+
+gcc omp_numthreads.c -fopenmp -o teste
